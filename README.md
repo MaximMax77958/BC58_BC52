@@ -1,0 +1,1 @@
+This is for Max77958 and Max77960 Linux Drivers.
